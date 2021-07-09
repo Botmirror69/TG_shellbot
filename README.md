@@ -26,6 +26,12 @@ This bot demonstrates a great part of [Botgram][]'s API.
 **Note:** Due to the tight integration, running this bot on Windows is
 currently *not* supported.
 
+Deployment 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imnotdev25/TG_shellbot)
+
+
+
 ## Install
 
 First install [node-pty dependencies](https://github.com/Microsoft/node-pty#dependencies). For example, if you're in Ubuntu/Debian:
