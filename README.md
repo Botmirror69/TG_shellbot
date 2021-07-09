@@ -26,7 +26,7 @@ This bot demonstrates a great part of [Botgram][]'s API.
 **Note:** Due to the tight integration, running this bot on Windows is
 currently *not* supported.
 
-##Deployment 
+## Deployment 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imnotdev25/TG_shellbot)
 
